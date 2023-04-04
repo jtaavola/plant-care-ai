@@ -1,4 +1,4 @@
-# Plant Care AI
+# Plant Care AI :potted_plant:
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js&style=for-the-badge)](https://nextjs.org)
 [![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=OpenAI&style=for-the-badge)](https://platform.openai.com)
@@ -6,7 +6,7 @@
 
 A simple web app for generating plant care guides using OpenAI's GPT API.
 
-## Development
+## Development :robot:
 
 ### `npm install`
 
@@ -28,7 +28,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-## Deploy
+## Deploy :rocket:
 
 Host your own live version of Plant Care AI with Vercel.
 
