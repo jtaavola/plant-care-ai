@@ -1,3 +1,4 @@
+import Footer from '@/components/Footer';
 import { Leaf, Loader2, Sprout } from 'lucide-react';
 import Markdown from 'markdown-to-jsx';
 import Head from 'next/head';
@@ -75,6 +76,7 @@ const App = () => {
           )}
         </div>
       </div>
+      <Footer />
     </>
   );
 };
